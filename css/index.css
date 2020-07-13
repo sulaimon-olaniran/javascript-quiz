@@ -250,6 +250,10 @@ input[type=radio]:checked ~ .option {
         height: 8rem;
     }
 
+    .game-question-container h1{
+        font-size: 0.9rem;
+     }
+
     .game-options-container span{
         width: 90%;
     }
