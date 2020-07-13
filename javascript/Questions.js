@@ -1,4 +1,4 @@
-export const questions = [
+ const Questions = [
     {
         question: "How many days makes a week ?",
         optionA: "10 days",
@@ -226,3 +226,5 @@ export const questions = [
     }
 
 ]
+
+export default Questions

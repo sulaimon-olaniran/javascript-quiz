@@ -1,4 +1,4 @@
-import { questions } from './Questions'
+import { Questions } from './Questions'
 // const questions = [
 //     {
 //         question: "How many days makes a week ?",
@@ -227,6 +227,8 @@ import { questions } from './Questions'
 //     }
 
 // ]
+
+const questions = Questions
 
 const shuffledQuestions = []
 
