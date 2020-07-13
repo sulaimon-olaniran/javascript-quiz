@@ -1,4 +1,4 @@
-import { Questions } from './Questions'
+import Questions from './Questions'
 // const questions = [
 //     {
 //         question: "How many days makes a week ?",
